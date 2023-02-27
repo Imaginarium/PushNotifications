@@ -7,7 +7,6 @@ export default class App extends React.Component {
     return (
       <WebView 
       source={{ uri: Keys.URL }} 
-      style={{ marginTop: 20 }} 
       />
     );
   }
