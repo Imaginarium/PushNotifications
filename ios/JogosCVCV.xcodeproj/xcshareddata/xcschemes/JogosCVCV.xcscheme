@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "PushNotifications.app"
-               BlueprintName = "PushNotifications"
-               ReferencedContainer = "container:PushNotifications.xcodeproj">
+               BuildableName = "JogosCVCV.app"
+               BlueprintName = "JogosCVCV"
+               ReferencedContainer = "container:JogosCVCV.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "PushNotificationsTests.xctest"
-               BlueprintName = "PushNotificationsTests"
-               ReferencedContainer = "container:PushNotifications.xcodeproj">
+               BuildableName = "JogosCVCVTests.xctest"
+               BlueprintName = "JogosCVCVTests"
+               ReferencedContainer = "container:JogosCVCV.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "PushNotifications.app"
-            BlueprintName = "PushNotifications"
-            ReferencedContainer = "container:PushNotifications.xcodeproj">
+            BuildableName = "JogosCVCV.app"
+            BlueprintName = "JogosCVCV"
+            ReferencedContainer = "container:JogosCVCV.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "PushNotifications.app"
-            BlueprintName = "PushNotifications"
-            ReferencedContainer = "container:PushNotifications.xcodeproj">
+            BuildableName = "JogosCVCV.app"
+            BlueprintName = "JogosCVCV"
+            ReferencedContainer = "container:JogosCVCV.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

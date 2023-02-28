@@ -12,6 +12,7 @@
   "dependencies": {
     "react": "18.2.0",
     "react-native": "0.71.3",
+    "react-native-eject": "^0.2.0",
     "react-native-onesignal": "^4.5.0",
     "react-native-webview": "^11.26.1"
   },

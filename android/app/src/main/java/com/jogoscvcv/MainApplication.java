@@ -1,4 +1,4 @@
-package com.pushnotifications;
+package com.jogoscvcv;
 
 import android.app.Application;
 import com.facebook.react.PackageList;
